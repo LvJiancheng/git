@@ -9,3 +9,4 @@ create new branch is quick and fast
 create new branch is quick and fast
 >>>>>>> featurel
 add new branch
+git is free software 
